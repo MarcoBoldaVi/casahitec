@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient( rgba(250, 102, 0, 0.8) 0%, rgba(252, 160, 4, 0.8) 60%, rgba(255, 214, 0, 0.8) 100%);
+}
+#logo{
+    height: 15.2vh;
+}
+/*nav{
+    background: linear-gradient( rgba(10, 8, 4, 0.8) 0%, rgba(11, 7, 3, 0.8) 60%, rgba(5, 4, 0, 0.8) 100%);
+    border-bottom: solid white;
+}*/
+nav img{
+    height: 15.2vh;
+}
+
+.aceso{
+    background: linear-gradient( rgba(144, 141, 135, 0.8) 0%, rgba(106, 97, 89, 0.8) 60%, rgba(124, 122, 115, 0.8) 100%);
+    border-bottom: solid white;
+}
+
+.apagado{
+    background: linear-gradient( rgba(10, 8, 4, 0.8) 0%, rgba(11, 7, 3, 0.8) 60%, rgba(5, 4, 0, 0.8) 100%);
+    border-bottom: solid white;
+}
